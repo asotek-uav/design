@@ -1,0 +1,8 @@
+﻿.DS_Store
+Thumbs.db
+desktop.ini
+*.f3d.bak
+*.f3z.bak
+~$*
+*.lck
+*.tmp
